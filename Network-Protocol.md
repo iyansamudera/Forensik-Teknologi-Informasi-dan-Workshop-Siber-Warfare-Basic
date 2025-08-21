@@ -9,6 +9,8 @@ Dalam konteks jaringan, protokol adalah aturan yang mendefinisikan cara sistem a
 - Jenis-jenis protokol dalam jaringan.
 
 # Apa yang Dimaksud dengan Protokol Jaringan?
+## Protokol Jaringan
+![OSI MODEL](https://github.com/iyansamudera/Forensik-Teknologi-Informasi-dan-Workshop-Siber-Warfare-Basic/blob/main/ProtokolJaringan.png)
 **Pertama, mari pahami dulu apa itu jaringan dan internet supaya tidak salah memahami definisi network protocol.**
 Jaringan adalah kumpulan dua atau lebih perangkat yang terhubung untuk berbagi sumber daya dan informasi. Sementara itu, internet adalah jaringan global yang menghubungkan jutaan perangkat di seluruh dunia. Internet memungkinkan pertukaran informasi, dan komunikasi tanpa batas.
 Berdasarkan definisi tersebut, bisa dikatakan bahwa protokol jaringan adalah standar yang mengatur bagaimana perangkat-perangkat berkomunikasi satu sama lain di suatu jaringan, termasuk di internet. Protokol inilah yang menentukan format data, metode transmisi, dan cara mengatasi kesalahan yang mungkin terjadi selama proses komunikasi. Dengan protokol, perangkat-perangkat dalam jaringan juga tetap bisa berkomunikasi terlepas dari perbedaan infrastruktur, desain, maupun standar.
@@ -50,4 +52,5 @@ OSI berperan sebagai framework yang menjadi dasar dari cara protokol jaringan be
 
 ## OSI Model
 ![OSI MODEL](https://github.com/iyansamudera/Forensik-Teknologi-Informasi-dan-Workshop-Siber-Warfare-Basic/blob/main/OSILAYERS.png)
+
 
