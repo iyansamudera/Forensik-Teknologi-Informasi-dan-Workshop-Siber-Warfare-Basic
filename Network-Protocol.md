@@ -49,4 +49,5 @@ OSI berperan sebagai framework yang menjadi dasar dari cara protokol jaringan be
 - Physical: Mengirimkan data mentah melalui media fisik seperti kabel atau gelombang radio.
 
 ## OSI Model
-![OSI MODEL] (https://iptek.web.id/wp-content/uploads/2022/06/7-layer-osi-model-FT-Bn14UEAEi1X3.jpg)
+![OSI MODEL](https://github.com/iyansamudera/Forensik-Teknologi-Informasi-dan-Workshop-Siber-Warfare-Basic/blob/main/OSILAYERS.png)
+
