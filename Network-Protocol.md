@@ -53,4 +53,6 @@ OSI berperan sebagai framework yang menjadi dasar dari cara protokol jaringan be
 ## OSI Model
 ![OSI MODEL](https://github.com/iyansamudera/Forensik-Teknologi-Informasi-dan-Workshop-Siber-Warfare-Basic/blob/main/OSILAYERS.png)
 
+## OSI Model
+![OSI MODEL](https://github.com/iyansamudera/Forensik-Teknologi-Informasi-dan-Workshop-Siber-Warfare-Basic/blob/main/OSI%207Layers.jpg)
 
