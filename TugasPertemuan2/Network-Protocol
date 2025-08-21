@@ -3,3 +3,5 @@ Protokol jaringan (network protocol) adalah kumpulan aturan dan standar yang men
 Protokol ini berfungsi seperti bahasa umum yang memungkinkan perangkat yang berbeda untuk berkomunikasi, bertukar informasi, dan bekerja sama secara efisien. Tanpa protokol jaringan, perangkat tidak akan tahu bagaimana cara memproses data yang diterima, seperti mengidentifikasi pengirim, 
 memastikan data sampai dengan utuh, atau menentukan jalur pengiriman terbaik.
 
+Kerangka Kerja Utama Protokol Jaringan (Network Protokol)
+![alt text](https://github.com/iyansamudera/Forensik-Teknologi-Informasi-dan-Workshop-Siber-Warfare-Basic/blob/main/OSILAYERS.png?raw=true)
