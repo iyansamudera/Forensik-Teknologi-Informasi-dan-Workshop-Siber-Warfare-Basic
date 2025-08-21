@@ -1,0 +1,6 @@
+# Network Protocol
+Protokol jaringan (network protocol) adalah kumpulan aturan dan standar yang mengatur bagaimana data ditransmisikan antara dua perangkat atau lebih dalam sebuah jaringan. 
+Protokol ini berfungsi seperti bahasa umum yang memungkinkan perangkat yang berbeda untuk berkomunikasi, bertukar informasi, dan bekerja sama secara efisien.
+
+Tanpa protokol jaringan, perangkat tidak akan tahu bagaimana cara memproses data yang diterima, seperti mengidentifikasi pengirim, 
+memastikan data sampai dengan utuh, atau menentukan jalur pengiriman terbaik.
