@@ -1,4 +1,4 @@
-Apa Itu Protokol Jaringan dan Bagaimana Cara Kerjanya?
+# Apa Itu Protokol Jaringan dan Bagaimana Cara Kerjanya?
 Apa maksudnya protokol?
 
 Dalam konteks jaringan, protokol adalah aturan yang mendefinisikan cara sistem atau program berkomunikasi satu sama lain.
@@ -76,4 +76,5 @@ Session: Membangun, mengelola, dan mengakhiri sesi komunikasi antara aplikasi.
 Transport: Memastikan pengiriman data yang andal dan lengkap dari ujung ke ujung.
 Network: Menentukan rute terbaik untuk pengiriman data dari sumber ke tujuan.
 Data Link: Mengatur akses ke media fisik dan mendeteksi serta memperbaiki kesalahan transmisi.
+
 Physical: Mengirimkan data mentah melalui media fisik seperti kabel atau gelombang radio.
