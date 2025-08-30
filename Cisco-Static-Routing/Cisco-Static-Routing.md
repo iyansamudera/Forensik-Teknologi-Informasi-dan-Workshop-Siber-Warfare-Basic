@@ -23,6 +23,9 @@ Di PC → Desktop → IP Configuration
 
 - Default Gateway: 192.168.1.1
 
+![PC 01](images/Screenshot(88).png)
+
+
 💻 PC 02
 
 - IP Address: 192.168.3.2
