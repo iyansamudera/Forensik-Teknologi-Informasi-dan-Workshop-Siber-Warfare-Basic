@@ -15,7 +15,7 @@ Jangan lupa pasang kabel ke port yang sesuai saat diminta Packet Tracer.
 
 Di PC → Desktop → IP Configuration
 
-💻 PC1
+💻 PC 01
 
 - IP Address: 192.168.1.2
 
@@ -23,7 +23,7 @@ Di PC → Desktop → IP Configuration
 
 - Default Gateway: 192.168.1.1
 
-💻 PC2
+💻 PC 02
 
 - IP Address: 192.168.3.2
 
