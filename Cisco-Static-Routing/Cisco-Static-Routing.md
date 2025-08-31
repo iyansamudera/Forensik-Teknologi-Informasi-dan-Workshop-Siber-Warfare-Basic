@@ -98,13 +98,13 @@ GigabitEthernet0/1
 ![RoutingStatis](imagess/routingStatisRouter1.png)
 
 ## Routing Static Router 1
-- Network IP dari PC 2 namun harus diganti berakhiran (.0) dikarenakan harus sama dengan Mask PC 2 (.0)
+- Network IP dari PC 2 namun harus diganti berakhiran (.0) dikarenakan harus sama dengan Mask PC2 (.0)
 
 ## 7. Routing Statis Router 2
 ![RoutingStatis](imagess/routingStatisRouter2.png)
 
 ## Routing Static Router 2
-- Network IP dari PC 1 namun harus diganti berakhiran (.0) dikarenakan harus sama dengan Mask PC 2 (.0)
+- Network IP dari PC 1 namun harus diganti berakhiran (.0) dikarenakan harus sama dengan Mask PC1 (.0)
 
 # Pengujian Koneksi #
 ## Ping PC 1 → PC 2
