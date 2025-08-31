@@ -135,4 +135,5 @@ Topologi jaringan ini berhasil menghubungkan dua subnet berbeda (192.168.1.0/24 
 ***
 
 Pratu Alfiyan Maulana Samudera
+
 SEKOLAH TINGGI TEKNOLOGI ANGKATAN LAUT
