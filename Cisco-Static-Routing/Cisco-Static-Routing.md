@@ -80,7 +80,7 @@ GigabitEthernet0/1
 
 ![ROUTER 01 ke Router 02](imagess/GigabitEthernet01.png)
 
-#Lanjut
+# Lanjut
 - Klik Router 2 → pilih Config → GigabitEthernet0/1
   
 - ✅ Centang On untuk mengaktifkan port.
@@ -106,7 +106,7 @@ GigabitEthernet0/1
 ## Routing Static Router 2
 - Network IP dari PC 1 namun harus diganti berakhiran (.0) dikarenakan harus sama dengan Mask PC 2 (.0)
 
-#Pengujian Koneksi#
+# Pengujian Koneksi #
 ## Ping PC 1 → PC 2
 ![ping](imagess/pingpc1.png)
 
