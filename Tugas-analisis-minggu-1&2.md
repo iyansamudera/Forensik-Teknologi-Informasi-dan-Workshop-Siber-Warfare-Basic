@@ -158,7 +158,7 @@ Untuk setiap sistem: skenario, vektor, dan konsekuensi:
 * *Konsekuensi strategis:* Kelemahan koordinasi tempur, blind-spot pada situasi taktis, peningkatan risiko kesalahan operasi, dan potensi eksploitasi oleh lawan selama krisis.
 
 #### Diagram Mermaid — Analisis Dampak Maritim
-![diagram1.png](gambar1.png)
+![diagram1.png](diagram1.png)
 
 ---
 
