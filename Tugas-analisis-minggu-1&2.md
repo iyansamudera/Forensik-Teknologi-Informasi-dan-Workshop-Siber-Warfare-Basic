@@ -105,9 +105,6 @@ Stuxnet bukan hanya malware; ia dirancang untuk merusak peralatan fisik (sentrif
 * **Insiden ALFA — Cyber Crime.** Justifikasi: Aktor dan motivasi finansial, penggunaan toolkit dari pasar gelap, serta pola operasional mirip tindakan kriminal terorganisir.
 * **Insiden BETA — Kemungkinan Cyber Warfare (atau operasi yang disponsori negara).** Justifikasi: Malware kustom terarah tanpa tuntutan finansial, target infrastruktur kritis selama ketegangan diplomatik—mengindikasikan tujuan strategis bukan finansial.
 
-#### Diagram Mermaid — Analisis Komparatif
-![gambar1.png](images/gambar1.png)
-
 ### Tugas 2: Studi Kasus Mendalam – Anatomi Serangan Stuxnet
 
 #### Fase Utama (Kill Chain) — Stuxnet
