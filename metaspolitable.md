@@ -252,3 +252,5 @@ Host **192.168.100.13** sangat rentan karena:
 * Ada backdoor aktif
 * Banyak port kritis terbuka
 
+## Alfiyan Maulana Samudera
+
