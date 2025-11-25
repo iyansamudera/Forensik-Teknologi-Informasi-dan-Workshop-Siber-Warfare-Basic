@@ -14,8 +14,7 @@ Repository ini berisi dokumentasi hasil scanning Nmap pada host **192.168.100.13
 
 ### 📌 Screenshot 1
 
-[<img src="gambar/metasploitable1.png" width="800">](https://github.com/iyansamudera/Forensik-Teknologi-Informasi-dan-Workshop-Siber-Warfare-Basic/blob/main/metasploitable1.png)
-
+[<img src="gambar/metasploitable1.png" width="800">]
 
 ---
 
