@@ -14,7 +14,8 @@ Repository ini berisi dokumentasi hasil scanning Nmap pada host **192.168.100.13
 
 ### 📌 Screenshot 1
 
-<img src="metasploitable1">
+<img src="gambar/metasploitable1.png" width="800">
+
 
 ---
 
