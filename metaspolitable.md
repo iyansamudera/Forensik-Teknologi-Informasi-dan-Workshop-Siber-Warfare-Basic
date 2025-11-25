@@ -1,6 +1,4 @@
-Berikut **contoh laporan lengkap** dengan **format persis seperti contoh yang Anda berikan**, tetapi berisi **HASIL SCAN dari laporan Anda (192.168.100.13)**.
-
-Anda bisa **copy–paste langsung ke README atau laporan UAS**.
+**HASIL SCAN dari laporan (192.168.100.13)**.
 
 ---
 
