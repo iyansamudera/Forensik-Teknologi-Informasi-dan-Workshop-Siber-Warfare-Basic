@@ -2,7 +2,11 @@
 
 ### Informasi Dasar
 ### Deskripsi : 
-Penyerang dan peretas dapat mengakses sebuah sistem ketika autentikasi dan pembatasan akses tidak diterapkan dengan baik. Dengan kata lain, Broken Access Control memungkinkan entri yang tidak sah yang dapat mengakibatkan kerentanan data dan file yang bersifat sensitif. Kontrol akses yang lemah terkait manajemen kredensial dapat dihindari dengan metode coding yang unik dan tindakan khusus seperti mematikan akun administratif dan penggunaan autentikasi multi-faktor.
+Broken Access Control adalah sebuah kelemahan keamanan pada aplikasi ketika mekanisme kontrol akses (authorization) tidak diterapkan, tidak konsisten, atau dapat dengan mudah dilewati. Kontrol akses adalah proses yang menentukan apa saja yang boleh dilakukan oleh pengguna setelah mereka berhasil terautentikasi. Ketika kontrol ini rusak atau salah diterapkan, pengguna dapat melakukan tindakan di luar haknya, seperti membaca data pengguna lain, memodifikasi informasi sensitif, menghapus data penting, atau mengakses fitur administratif.
+
+Pada aplikasi modern, kontrol akses menjadi bagian yang sangat penting karena setiap pengguna idealnya memiliki batasan tertentu berdasarkan perannya (role-based), identitasnya (user-based), atau atribut lainnya (attribute-based). Broken Access Control terjadi ketika batasan ini tidak dijaga dengan benar oleh server, sehingga aplikasi tidak mampu menegakkan aturan yang seharusnya membatasi ruang gerak pengguna.
+
+Masalah ini dapat muncul di berbagai titik, seperti endpoint API yang tidak memeriksa hak akses, URL yang dapat dimanipulasi, form yang tidak divalidasi, hingga konfigurasi server yang salah. Kesalahan ini sering berbahaya karena sifatnya yang tidak terlihat—aplikasi tampak berjalan normal, namun di balik itu penyerang dapat memanfaatkan celah untuk mengakses area yang seharusnya dilindungi.
 
 ### Target Serangan : 
 Semua jenis Web Server, application server, dan web application rentan dan mudah untuk terkena beberapa permasalahan ini. Bahkan website yang hanya bersifat statis, jika tidak diatur dengan baik, dapat diretas oleh hacker, seperti akses terhadap file - file penting, deface, ataupun beberapa perbuatan merusak lainnya. 
