@@ -18,50 +18,50 @@ Semua website dipastikan membutuhkan access control. Oleh karena itu aturan dan 
 
 1. Setelah melakukan pengaksesan localhost 3000 di terminal dan mempersiapkan aplikasi burpsuite di sini, saya melakukan login dengan menggunakan akun yang sudah di daftarkan sebelumnya.           
 
-![](Gambar/gambar1.png)
+![](Gambar/gmb1.png)
 
 2. Kemudian setelah melakukan proses login disini akan di arahkan ke halaman dashboard untuk dapat memilih beberapa item dan nantinya akan disimpan ke keranjang.
 
- ![](Gambar/gambar2.png)
+ ![](Gambar/gmb2.png)
  
 3. Kemudian menuju halaman keranjang untuk dapat melihat yang telah ditambahkan yaitu carrot juice dan Eggfruit Juice masing masing 1 buah.
 
- ![](Gambar/gambar3.png)
+ ![](Gambar/gmb3.png)
 
 4. Kemudian disini saya membuka halaman proxy di dalam http history untuk melihat track http history. Terdapat informasi host, method, url, status, length dan informasi pendukung lainnya.
 
- ![](Gambar/gambar4.png)
+ ![](Gambar/gmb4.png)
 
 5. Kemudian setelah itu saya pilih http history yang memiliki params
  json dengan get /rest/basket/6. Kemudian saya lihat mengenai request
  dan response yang tertampil di halaman tersebut. Dimana response
  berisi informasi isi keranjang yang telah saya pilih sebelumnya.
 
- ![](Gambar/gambar5.png)
+ ![](Gambar/gmb5.png)
 
 6. Kemudian saya pindahkan list request yang saya amati sebelumnya menuju repeater, kemudian saya send dan pada response terlihat data keranjang yang sudah sesuai dengan apa yang diinputkan sebelumnya.
 
- ![](Gambar/gambar6.png)
+ ![](Gambar/gmb6.png)
 
- ![](Gambar/gambar7.png)
+ ![](Gambar/gmb66.png)
 
 7. Setelah melihat informasi response di repeater, saya mencoba untu mengganti data id 6 menjadi 2 untuk melihat apakah terdapat perubahan yang ditampilkan response. Dan ternyata response membrikan informasi berbeda dari sebelumnya yang mana ternyata menunjukkan isi keranjang id 2.
 
- ![](Gambar/gambar8.png)
+ ![](Gambar/gmb7.png)
 
 8. Kemudian disini saya akan menggunakan fitur interceot untuk menampilkan data keranjang user lain di dalam website owasp juice shop. Dimana saya merubah status intercept yang tadinya off menjadi on.
 
- ![](Gambar/gambar9.png)
+ ![](Gambar/gmb8.png)
 
 9. Ketika intercept on disini terdapat baris informasi request terkait owasp juice shop. Kemudian saya foorward data tersebut hingga menemukan data get /rest/basket/6, kemudian saya ganti data uiidnya dengan id lain selain id 6 kemudian saya forward kembali informasi tersebut.
 
- ![](Gambar/gambar10.png)
+ ![](Gambar/gmb9.png)
 
 10. Website berhasil menampilkan isi keranjang pengguna lainnya berikut adalah isi keranjang pengguna : id (2).
 
- ![](Gambar/gambar11atas.png)
+ ![](Gambar/gmb10.png)
 
- ![](Gambar/gambar11bawah.png)
+ ![](Gambar/gmb100.png)
 
 11. Website berhasil menampilkan isi keranjang pengguna lainnya berikut adalah isi keranjang pengguna : id (4).
 
