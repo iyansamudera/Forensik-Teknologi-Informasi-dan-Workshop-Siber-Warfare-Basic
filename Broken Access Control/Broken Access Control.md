@@ -18,7 +18,7 @@ Semua website dipastikan membutuhkan access control. Oleh karena itu aturan dan 
 
 1. Setelah melakukan pengaksesan localhost 3000 di terminal dan mempersiapkan aplikasi burpsuite di sini, saya melakukan login dengan menggunakan akun yang sudah di daftarkan sebelumnya.           
 
-[<img src="gambar/gmb1.png" width="800">]
+<img src="gambar/gmb1.png" width="800">
 
 2. Kemudian setelah melakukan proses login disini akan di arahkan ke halaman dashboard untuk dapat memilih beberapa item dan nantinya akan disimpan ke keranjang.
 
