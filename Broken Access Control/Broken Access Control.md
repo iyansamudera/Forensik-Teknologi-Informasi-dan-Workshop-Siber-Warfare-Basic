@@ -1,7 +1,7 @@
 ## 🔐 Broken Access Control
 
-### Informasi Dasar
-### Deskripsi : 
+### 📢 Informasi Dasar
+### 📝Deskripsi : 
 Broken Access Control adalah sebuah kelemahan keamanan pada aplikasi ketika mekanisme kontrol akses (authorization) tidak diterapkan, tidak konsisten, atau dapat dengan mudah dilewati. Kontrol akses adalah proses yang menentukan apa saja yang boleh dilakukan oleh pengguna setelah mereka berhasil terautentikasi. Ketika kontrol ini rusak atau salah diterapkan, pengguna dapat melakukan tindakan di luar haknya, seperti membaca data pengguna lain, memodifikasi informasi sensitif, menghapus data penting, atau mengakses fitur administratif.
 
 Pada aplikasi modern, kontrol akses menjadi bagian yang sangat penting karena setiap pengguna idealnya memiliki batasan tertentu berdasarkan perannya (role-based), identitasnya (user-based), atau atribut lainnya (attribute-based). Broken Access Control terjadi ketika batasan ini tidak dijaga dengan benar oleh server, sehingga aplikasi tidak mampu menegakkan aturan yang seharusnya membatasi ruang gerak pengguna.
